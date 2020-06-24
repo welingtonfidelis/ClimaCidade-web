@@ -1,0 +1,143 @@
+#content {
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    height: 99vh;
+    width: 100vw;
+}
+
+.border-radius {
+    border-radius: 4px;
+}
+
+#content-left {
+    width: 35%;
+    height: 100%;
+    margin-right: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    #content {
+        flex-direction: column !important;
+    }
+
+    #content-left {
+        width: 100% !important;
+    }
+
+    #content-right {
+        margin-top: 15px !important;
+    }
+
+    #left-card {
+        height: 100% !important;
+    }
+
+    .weather-container {
+        padding-top: 0 !important;
+        padding-bottom: 10px !important;
+    }
+
+    .weather-temp{
+        margin-top: 5px !important;
+    }
+
+    .weather-text {
+        margin-top: 10px !important;
+    }
+}
+
+#search-card {
+    width: 100%;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+}
+
+#search-card div:first-child {
+    margin-right: 10px;
+}
+
+#search-card input {
+    background: #E5E5E5;
+    border-radius: 4px;
+}
+
+#left-card {
+    @extend .border-radius;
+    background: url('../../assets/images/bgClounds.svg') no-repeat center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+}
+
+.weather-container {
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.weather-date {
+    font-size: 13px;
+}
+
+.weather-city {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.weather-temp {
+    font-size: 70px;
+    margin-top: 40px;
+} 
+//16 13 22
+
+.weather-temp-container {
+    display: flex;
+    justify-content: space-around;
+    width: 65%;
+    margin: 5px 0 20px 0;
+}
+
+.weather-text {
+    font-size: 19px;
+    margin-top: 15px;
+}
+
+.weather-icon {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#content-right {
+    @extend .border-radius;
+    background-color: #303f9f;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    height: 100%;
+    padding: 10px;
+    color: #fff;
+}
+
+.table-history {
+    flex-grow: 1;
+}
+
+.table-title {
+    font-size: 1.3rem;
+    font-weight: bold;
+    padding: 5px 0 5px 0;
+}
+
+#content-right span:nth-of-type(2) {
+    margin-top: 15px;
+}
