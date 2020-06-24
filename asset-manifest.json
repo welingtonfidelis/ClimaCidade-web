@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ClimaCidade-web/static/css/main.42123765.chunk.css",
-    "main.js": "/ClimaCidade-web/static/js/main.58e76b22.chunk.js",
-    "main.js.map": "/ClimaCidade-web/static/js/main.58e76b22.chunk.js.map",
+    "main.js": "/ClimaCidade-web/static/js/main.8e0a3c64.chunk.js",
+    "main.js.map": "/ClimaCidade-web/static/js/main.8e0a3c64.chunk.js.map",
     "runtime-main.js": "/ClimaCidade-web/static/js/runtime-main.f1dec2ff.js",
     "runtime-main.js.map": "/ClimaCidade-web/static/js/runtime-main.f1dec2ff.js.map",
     "static/js/2.f5caff56.chunk.js": "/ClimaCidade-web/static/js/2.f5caff56.chunk.js",
     "static/js/2.f5caff56.chunk.js.map": "/ClimaCidade-web/static/js/2.f5caff56.chunk.js.map",
     "index.html": "/ClimaCidade-web/index.html",
-    "precache-manifest.92b8c2505c27626a41c72d71c456eb35.js": "/ClimaCidade-web/precache-manifest.92b8c2505c27626a41c72d71c456eb35.js",
+    "precache-manifest.0f00191fc1c0edca7273eae3bcd68709.js": "/ClimaCidade-web/precache-manifest.0f00191fc1c0edca7273eae3bcd68709.js",
     "service-worker.js": "/ClimaCidade-web/service-worker.js",
     "static/css/main.42123765.chunk.css.map": "/ClimaCidade-web/static/css/main.42123765.chunk.css.map",
     "static/js/2.f5caff56.chunk.js.LICENSE.txt": "/ClimaCidade-web/static/js/2.f5caff56.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f1dec2ff.js",
     "static/js/2.f5caff56.chunk.js",
     "static/css/main.42123765.chunk.css",
-    "static/js/main.58e76b22.chunk.js"
+    "static/js/main.8e0a3c64.chunk.js"
   ]
 }
