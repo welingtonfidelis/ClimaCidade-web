@@ -17,7 +17,7 @@ Também foi introduzido no projeto a possibilidade de uso de [docker container] 
 
 ### Instalação
 
-Clonar este repositório, dentro da pasta criada, executar o comando npm run install ou yarn install. É importante ressaltar que um backend/API é necessário para o completo funcionamento deste projeto, considerando que você já possua um, dentro da pasta /src/services/api.js altere o endereço da variável api_url para onde está sendo executado seu backend/API. Em seguida, executar o comando npm start ou yarn start e após alguns segundos, uma nova aba/janela será aberta em seu navegador com o projeto em execução.
+Clonar este repositório, dentro da pasta criada, criar um arquivo .env como no exemplo .env.example contendo o endereço onde está sendo executado seu backend/API e executar o comando npm run install ou yarn install. É importante ressaltar que um backend/API é necessário para o completo funcionamento deste projeto. Em seguida, executar o comando npm start ou yarn start e após alguns segundos, uma nova aba/janela será aberta em seu navegador com o projeto em execução.
 
 ### Utilizando a aplicação
 
