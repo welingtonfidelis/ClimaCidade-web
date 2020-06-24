@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "745c73d786882e4f080f4584869f4c37",
+    "revision": "856ef479cae0abe98e6fc952e06a1efa",
     "url": "/ClimaCidade-web/index.html"
   },
   {
-    "revision": "1a58c32705b6de5dd2aa",
+    "revision": "0896365a5304429dae92",
     "url": "/ClimaCidade-web/static/css/main.42123765.chunk.css"
   },
   {
-    "revision": "ef2317384f21fe1b1ec3",
-    "url": "/ClimaCidade-web/static/js/2.230687ac.chunk.js"
+    "revision": "49364f62aba6153b425b",
+    "url": "/ClimaCidade-web/static/js/2.d4af4248.chunk.js"
   },
   {
     "revision": "3be25bf51018a491ef7f73dfd2dd74c4",
-    "url": "/ClimaCidade-web/static/js/2.230687ac.chunk.js.LICENSE.txt"
+    "url": "/ClimaCidade-web/static/js/2.d4af4248.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a58c32705b6de5dd2aa",
-    "url": "/ClimaCidade-web/static/js/main.ef49b1ee.chunk.js"
+    "revision": "0896365a5304429dae92",
+    "url": "/ClimaCidade-web/static/js/main.7f87de66.chunk.js"
   },
   {
     "revision": "0b2b81e7d430732bb86d",
