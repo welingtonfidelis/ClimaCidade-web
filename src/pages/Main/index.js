@@ -15,7 +15,7 @@ import util from '../../services/util';
 import './styles.scss';
 
 export default function Main() {
-    const api_url = 'https://clima-cidade-api.herokuapp.com/'//process.env.REACT_APP_API_URL;
+    const api_url = process.env.REACT_APP_API_URL;
 
     const [city, setCity] = useState('');
     const [load, setLoad] = useState({ search: false, history: false, top: false });
